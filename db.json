@@ -1,0 +1,12 @@
+{
+  "shipping-callout": {
+    "type": "bad_request",
+    "errors": [
+      {
+        "code": "shipping_address_invalid",
+        "parameter": "string",
+        "message": "The shipping address provided is not valid."
+      }
+    ]
+  }
+}
